@@ -1,0 +1,4 @@
+site_name: gh-changelog
+nav:
+  - Home: index.md
+
