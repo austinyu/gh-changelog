@@ -12,7 +12,9 @@ license = "MIT"
 license-files = []
 keywords = []
 classifiers = []
-dependencies = []
+dependencies = [
+    "requests>=2.32.3",
+]
 dynamic = []
 [[project.authors]]
 name = "Austin Yu"
